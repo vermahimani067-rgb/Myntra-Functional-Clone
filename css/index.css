@@ -95,7 +95,7 @@ a.action_container:link {
 header {
     display: flex;
     background-color: #ffffff;
-    height: 80px;
+    height: 82px;
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid #b6b1b1;
@@ -230,4 +230,49 @@ header {
     color: #94969f;
     text-align: end;
     padding: 15px;
+}
+
+.items-container {
+    width: 80%;
+    margin: 40px 10%;
+}
+
+.item-container {
+    width: 200px;
+}
+
+.item-img {
+    width: 100%;
+}
+
+.rating {
+
+}
+
+.company-name {
+
+}
+
+.item-name {
+
+}
+
+.price {
+
+}
+
+.current-price {
+
+}
+
+.original-price {
+
+}
+
+.discount {
+
+}
+
+.btn-add-bag {
+
 }
